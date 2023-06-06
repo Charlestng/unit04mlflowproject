@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/charl/Documents/jedha/fs-ft-04/D06/demo/mlruns/0/b89a241e571b45a6af0d2f9a88c2a581/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: b89a241e571b45a6af0d2f9a88c2a581
+run_uuid: b89a241e571b45a6af0d2f9a88c2a581
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686043797366
+status: 1
+tags: []
+user_id: charl
